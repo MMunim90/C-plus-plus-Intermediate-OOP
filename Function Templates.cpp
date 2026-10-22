@@ -11,7 +11,7 @@ int main()
     int x = 7, y = 15;
     cout << sum(x, y) << endl;
 
-    int xx = 7.15, yy = 15.54;
+    double xx = 7.15, yy = 15.54;
     cout << sum(xx, yy) << endl;
     return 0;
 }
